@@ -24,7 +24,7 @@ com essa duas tecnologias e utilizar algumas das melhores ferramentas que existe
 ##### Responsabilidades
 
  * Participar da definição e implementação de novas funcionalidades... além de melhorar as que já existem.
- * Desevolver código usando preferencialmente em Python e Django.
+ * Desenvolver código usando preferencialmente Python e Django.
  * Utilizar e melhorar nossos processos de integração contínua, automação de testes e deploy.
  * Agir rapidamente para a correção de bugs.
 
@@ -50,4 +50,5 @@ Se você tem perfil próximo ao que estamos procurando, envie um email para jobs
  * Endereço do LinkedIn (de preferência) ou currículo em PDF
  * Endereço do Github (ou outro serviço semelhante) 
 
-As vagas são todas para trabalhar em Curitiba.
+As vagas são todas para trabalhar em Curitiba. Não aceitamos home-office, nem temos escritórios em outras regiões
+do Brasil.
