@@ -46,9 +46,10 @@ com essa duas tecnologias e utilizar algumas das melhores ferramentas que existe
 
 Se você tem perfil próximo ao que estamos procurando, envie um email para jobs@mecasar.com com com o assunto "Vaga - Desenvolvedor Python e Django":
 
- * Pequena apresentação 
- * Endereço do LinkedIn (de preferência) ou currículo em PDF
- * Endereço do Github (ou outro serviço semelhante) 
-
+ * Pequena apresentação.
+ * Endereço do LinkedIn (de preferência) ou currículo em PDF.
+ * Endereço do Github (ou outro serviço semelhante).
+ * Outros materiais que julgar interessante.
+  
 As vagas são todas para trabalhar em Curitiba. Não aceitamos home-office, nem temos escritórios em outras regiões
 do Brasil.
