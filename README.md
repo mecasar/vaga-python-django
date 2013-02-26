@@ -1,4 +1,4 @@
-# mecasar
+# ![mecasar](https://github.com/mecasar/vaga-python-django/blob/master/logo.png "mecasar")
 
 Lançado em Novembro de 2011, o [mecasar](http://mecasar.com) vem se tornando referência na vida de casais que estão
 passando pelo processo de organização de seus casamentos. Mas por trás do website, existe uma equipe composta por
